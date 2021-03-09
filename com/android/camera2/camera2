@@ -1,0 +1,3 @@
+Name: Camera
+Package: com.android.camera2
+Info: Camera UI App, keep in mind that deleting this app does not delete your camera functionality you just need to install third-party app

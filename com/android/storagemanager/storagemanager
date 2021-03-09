@@ -1,0 +1,3 @@
+Name: Storgae Manager
+Package: com.android.storagemanager
+Info: gives "free storage" function in Storage Settings, this button does nothing after deletion

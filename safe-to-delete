@@ -1,0 +1,19 @@
+Here is bloatware that can be deleted without any major repercusions.
+(keep in mind that when I mean "major repercusions" I mean other packages
+breaking apart NOT for example wallpaper breaking)
+com.google.android.gm
+com.android.chrome
+com.android.vending
+com.android.calendar
+com.android.camera2
+com.android.calculator2
+com.android.documentsui
+com.android.development
+com.android.deskclock
+com.android.gallery3d
+com.android.inputmethod.latin
+com.android.contacts
+com.android.storagemanager
+com.android.dialer
+com.example.android.notepad
+com.example.android.rssreader
