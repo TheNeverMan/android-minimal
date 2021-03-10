@@ -1,0 +1,3 @@
+Name: Android System WebView
+Package: com.google.android.webview
+Info: WebView function, allows other apps to open webpages without browser involved
