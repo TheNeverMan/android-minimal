@@ -1,2 +1,3 @@
 Here are all packages absolutely needed for Android to function
 android
+com.android.settings
