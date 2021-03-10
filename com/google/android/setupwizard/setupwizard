@@ -1,0 +1,3 @@
+Name: Android Configuration
+Package: com.google.android.setupwizard
+Info: App responsible for setting up for ex. accounts when login first time into Google. 

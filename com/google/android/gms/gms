@@ -1,0 +1,3 @@
+Name: Google Play Services
+Package: com.google.android.gms
+Info: Main package for Google Play Services, runs 14 processess constantly in background, deleting this will cause all other Google Apps to break.

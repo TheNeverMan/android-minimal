@@ -1,0 +1,3 @@
+Name: Google Contacts Sync
+Package: com.google.android.syncadapters.contacts
+Info: Syncs Google Contacts with cloud.

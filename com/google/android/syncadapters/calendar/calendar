@@ -1,0 +1,3 @@
+Name: Google Calendar Sync
+Package: com.google.android.syncadapters.calendar
+Info: Syncs Google Calendar with cloud.
