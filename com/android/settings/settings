@@ -1,0 +1,3 @@
+Name: Settings
+Package: com.android.settings
+Info: Provides System Settings, critical for Android to run.
