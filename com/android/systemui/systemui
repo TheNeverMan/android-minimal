@@ -1,0 +1,4 @@
+Name: Interface
+Package: com.android.systemui
+Info: Provides notification bar, wallpaper and on-screen buttons. IF YOUR DEVICE DOES NOT HAVE ANY REAL BUTTONS AND YOU DON'T
+HAVE ANY OTHER ON-SCREEN BUTTON PROVIDER DO NOT DELETE
