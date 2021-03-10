@@ -1,2 +1,6 @@
 Here are packages that can be uninstalled with some negative repercusions,but
-Android remaining functionall
+Android remaining functional
+com.google.android.gms - breaks Google Apps
+com.google.android.syncadapters.contacts - breaks sync with cloud
+com.google.android.syncadapters.calendar - breakjs sync with cloud
+com.android.systemui - breaks wallpaper, notifications and virtula buttons
