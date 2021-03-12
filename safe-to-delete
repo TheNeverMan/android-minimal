@@ -36,3 +36,7 @@ com.google.android.partnersetup
 com.google.android.webview
 com.google.android.apps.restore
 com.google.android.printservice.recommendation
+com.android.internal.display.cutout.emulation.tall
+com.android.internal.display.cutout.emulation.corner
+com.android.internal.display.cutout.emulation.double
+com.android.settings.intelligence
