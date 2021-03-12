@@ -1,0 +1,3 @@
+Name: Settings Suggestions
+Package: com.android.settings.intelligence
+info: gives suggestions of settings that shoul be changed in settings app (on main screen)

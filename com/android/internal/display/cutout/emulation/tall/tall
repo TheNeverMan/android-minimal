@@ -1,0 +1,3 @@
+Name: (pl) Wysokie wycięcie wyświetlacza
+Package: com.android.internal.display.cutout.emulation.tall
+Info: This may be Android x86 exclusive to emulate portrait mode on pcs and laptops, although even after delete portrait mode works so idk.
