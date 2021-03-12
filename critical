@@ -1,3 +1,6 @@
 Here are all packages absolutely needed for Android to function
 android
 com.android.settings
+com.google.android.packageinstaller
+com.google.android.ext.services
+com.google.android.ext.shared
