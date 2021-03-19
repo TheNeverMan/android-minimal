@@ -1,0 +1,3 @@
+Name: MmsService
+Package: com.android.mms.service
+Info: Provides MMS messages, if you use sim card do not delete

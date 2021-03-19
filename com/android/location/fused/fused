@@ -1,0 +1,3 @@
+Name: Location
+Package: com.android.location.fused
+Info: Provides Location service without this gps wont work
