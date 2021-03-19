@@ -46,3 +46,10 @@ com.android.providers.partnerbookmarks
 com.android.providers.userdictionary
 com.android.providers.blockednumbers
 com.android.keychain
+com.android.traceur
+com.android.statementservice
+com.android.sharedstoragebackup
+com.android.phone
+com.android.printspooler
+com.android.mtp
+com.android.managedprovisioning
