@@ -40,3 +40,9 @@ com.android.internal.display.cutout.emulation.tall
 com.android.internal.display.cutout.emulation.corner
 com.android.internal.display.cutout.emulation.double
 com.android.settings.intelligence
+com.android.providers.downloads
+com.android.providers.downloads.ui
+com.android.providers.partnerbookmarks
+com.android.providers.userdictionary
+com.android.providers.blockednumbers
+com.android.keychain

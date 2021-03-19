@@ -4,3 +4,7 @@ com.android.settings
 com.google.android.packageinstaller
 com.google.android.ext.services
 com.google.android.ext.shared
+com.android.providers.settings
+com.android.shell
+com.android.certinstaller
+com.android.inputdevices

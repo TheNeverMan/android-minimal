@@ -6,3 +6,6 @@ com.google.android.syncadapters.calendar - breakjs sync with cloud
 com.android.systemui - breaks wallpaper, notifications and virtual buttons
 com.android.vpndialogs - breaks vpn (untested)
 com.android.proxyhandler - breaks proxy (untested)
+com.android.providers.contacts - breaks contacts and calling (untested)
+com.android.providers.calendar - propably destroys calendar (untested)
+com.android.providers.telephony - propably breaks sim card functions (untested)
