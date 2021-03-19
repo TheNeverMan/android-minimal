@@ -1,0 +1,3 @@
+Package: com.android.providers.settings
+Name: Settings Memory
+Info: provides access to settings for other apps

@@ -1,0 +1,3 @@
+Package: com.android.providers.calendar
+Name: Calendar Memory
+Info: provides access to calendar API to other apps

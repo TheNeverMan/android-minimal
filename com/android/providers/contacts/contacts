@@ -1,0 +1,3 @@
+Package: com.android.providers.contacts
+Name: Contacts
+Info: Provides access to contacts for other apps
